@@ -11,8 +11,10 @@ h2 {
 
 label {
     margin-left: 150px;
+    text-decoration: underline;
 }
 
 p {
     margin-left: 150px;
+    
 }
